@@ -1,0 +1,9 @@
+{
+	"name": "gp-eng-dados-alura-databricks",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6c469b4-f604-469f-b94b-a4b9f19de704",
+		"tenantId": "6592c777-928d-42f7-9ec2-fb55050ae171"
+	}
+}
